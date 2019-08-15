@@ -1,0 +1,14 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "test node app",
+  "main": "index.js",
+  "repository": "git@github.com:Harrisonkamau/test-node-app.git",
+  "author": "Harrisonkamau <kamauharrison87@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
